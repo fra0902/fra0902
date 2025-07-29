@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fra0902
 - 👀 I’m interested to learn about code's world
-- 🌱 I’m currently learning python 
+- 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on public project
 - 📫 reach me on: francescolucini0902@gmail.com
 - 😄 Pronouns: he/him
