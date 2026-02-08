@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Francesco 🇮🇹
 - 🌱 learning JavaScript
-- 📫 reach me on: francescolucini0902@gmail.com
 - 😄 Pronouns: he/him
 
 <!---
